@@ -9,8 +9,8 @@
     "peak_month": 7,
     "sources": [
       {"type": "news", "url": "https://friday.kodansha.co.jp/article/197508", "title": "「パパ活女子」の最終進化形「イタダキ女子」の狡猾すぎる手口 - FRIDAYデジタル"},
-      {"type": "news", "url": "https://bunshun.jp/articles/-/47012", "title": "「パパ活で100万頂けたよ！」SNSでパパからもらった金額を競い合う"頂き女子"のヤバすぎる手口 - 文春オンライン"},
-      {"type": "news", "url": "https://www.ktv.jp/news/feature/1102-itadaki/", "title": "パパ活をさらに悪質にしたもの、それが"頂き女子" - 関西テレビ"}
+      {"type": "news", "url": "https://bunshun.jp/articles/-/47012", "title": "「パパ活で100万頂けたよ！」SNSでパパからもらった金額を競い合う\u201c頂き女子\u201dのヤバすぎる手口 - 文春オンライン"},
+      {"type": "news", "url": "https://www.ktv.jp/news/feature/1102-itadaki/", "title": "パパ活をさらに悪質にしたもの、それが\u201c頂き女子\u201d - 関西テレビ"}
     ]
   },
   {
@@ -22,7 +22,7 @@
     "reach": 4,
     "peak_month": 5,
     "sources": [
-      {"type": "news", "url": "https://nikkan-spa.jp/1315645", "title": "パパ活を始める"港区女子"たちは注意「"港区おじさん"の多くは非モテ、最悪ストーカー化も…」 - 日刊SPA!"},
+      {"type": "news", "url": "https://nikkan-spa.jp/1315645", "title": "パパ活を始める\u201c港区女子\u201dたちは注意「\u201c港区おじさん\u201dの多くは非モテ、最悪ストーカー化も…」 - 日刊SPA!"},
       {"type": "news", "url": "https://tokyo-calendar.jp/article/8812", "title": "港区おじさんが編み出した「港区女子適性診断」 - 東京カレンダー"},
       {"type": "news", "url": "https://happymail.co.jp/happylife/characteristic/minato-ward-women/", "title": "港区女子の実態とは？職業や特徴あるある9選＆悲しい末路を紹介 - ハッピーライフ"}
     ]
@@ -39,7 +39,7 @@
   {
     "name": "既読無視 = 脈なし 論争",
     "type": "aruaru",
-    "description": "「既読無視＝脈なし、未読無視＝忙しいだけ」という法則がバズ。「いや未読も脈なしだろ」派との対立が繰り返された。",
+    "description": "「既読無視＝脈なし、未読無視＝忙しいだけ」という法則がバズ。「いや未読も脈なしだろ」派との対立が繰り返された。特定年のミームではなく、マッチングアプリ界隈で定期的に再燃する定番論争。",
     "origin": "恋愛系インフルエンサーのツイート。ナンパ界隈では「追撃LINEの是非」議論と合流。",
     "image": "",
     "reach": 3,
@@ -94,7 +94,7 @@
     "name": "即画・戦果報告文化の全盛期",
     "type": "aruaru",
     "description": "ナンパ後にベッドで寝ている女性の写真（即画）や性的音声をTwitterに投稿する「戦果報告」が界隈で常態化。女性の顔にモザイクをかけず投稿するケースも横行し、外部から「人権侵害」と批判。",
-    "origin": "Twitter。「即報告文学」と合わせてナンパ師のマウント文化の象徴だったが、2023年の撮影罪施行・スタナン一家事件を経て急速に衰退。",
+    "origin": "Twitter。「即報告文学」と合わせてナンパ師のマウント文化の象徴だったが、2023年の撮影罪施行を経て急速に衰退。",
     "image": "",
     "reach": 1,
     "peak_month": 7
@@ -102,8 +102,8 @@
   {
     "name": "中星マインド",
     "type": "term",
-    "description": "中星一番が提唱した思想。女性に家を提供させ、サンクコストをかけさせ、男として上位に立つマインドセット。Twitterプロフに「@中星マインド」と書く信者が急増した。",
-    "origin": "Twitter / note。中星一番が東大中退後にナンパで月商3000万を達成し、noteで累計1億円売上。「お願い私を捨てないで」と言わせる付き合い方が経典。批判も多い。",
+    "description": "中星一番が提唱した思想。女性に家を提供させ、サンクコストをかけさせ、男として上位に立つマインドセット。noteで「お願い私を捨てないで」と言わせる付き合い方が経典化。",
+    "origin": "Twitter / note。中星一番が東大大学院中退後にナンパで月商2000万以上を達成し、noteで累計約1億円売上。批判も多いが界隈内での影響力は大きかった。",
     "image": "",
     "reach": 2,
     "peak_month": 6
