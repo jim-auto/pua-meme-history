@@ -2,7 +2,7 @@
 
 https://jim-auto.github.io/kaiwai-history/site/
 
-PUA（Pickup Artist）/ ナンパ / マッチングアプリ界隈で流行したミーム・事件・用語を年ごとに整理する文化アーカイブです。
+PUA（Pickup Artist）/ ナンパ / マッチングアプリ界隈で起きた事件・流行・人物・法規制を年ごとに記録するアーカイブです。
 
 ## コンテンツ
 
