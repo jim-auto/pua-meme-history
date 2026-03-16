@@ -1,10 +1,8 @@
 # PUA Meme History
 
+https://jim-auto.github.io/pua-meme-history/site/
+
 PUA（Pickup Artist）/ ナンパ / マッチングアプリ界隈で流行したミームやネタを年ごとに整理する文化アーカイブです。
-
-## サイト
-
-GitHub Pages: `https://<username>.github.io/pua-meme-history/site/`
 
 ## ディレクトリ構成
 
