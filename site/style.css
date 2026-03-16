@@ -41,6 +41,215 @@ a:hover {
   color: var(--accent-hover);
 }
 
+/* Hero */
+.hero {
+  position: relative;
+  text-align: center;
+  padding: 4rem 1rem 3rem;
+  background: radial-gradient(ellipse at 50% 0%, rgba(88, 166, 255, 0.12) 0%, transparent 60%),
+              radial-gradient(ellipse at 80% 20%, rgba(247, 120, 186, 0.08) 0%, transparent 50%),
+              var(--bg);
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 40px,
+    rgba(48, 54, 61, 0.3) 40px,
+    rgba(48, 54, 61, 0.3) 41px
+  );
+  pointer-events: none;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--pink);
+  margin-bottom: 1rem;
+}
+
+.hero-title {
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.1;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 1rem;
+}
+
+.hero-sub {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.8;
+  max-width: 400px;
+  margin: 0 auto 1.5rem;
+}
+
+.hero-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+/* Nav cards */
+.nav-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.nav-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 1.5rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  color: var(--text);
+  transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+}
+
+.nav-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+  box-shadow: 0 4px 20px rgba(88, 166, 255, 0.12);
+  color: var(--accent);
+}
+
+.nav-card-icon {
+  font-size: 1.6rem;
+  margin-bottom: 0.2rem;
+}
+
+.nav-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.nav-card-desc {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+}
+
+/* Pickup section */
+.pickup-section {
+  margin-bottom: 2.5rem;
+}
+
+.section-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 1rem;
+}
+
+.pickup-scroll {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.pickup-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+
+.pickup-scroll::-webkit-scrollbar-track {
+  background: var(--border);
+  border-radius: 2px;
+}
+
+.pickup-scroll::-webkit-scrollbar-thumb {
+  background: var(--text-muted);
+  border-radius: 2px;
+}
+
+.pickup-card {
+  flex: 0 0 220px;
+  scroll-snap-align: start;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  color: var(--text);
+  transition: border-color 0.2s;
+  text-decoration: none;
+}
+
+.pickup-card:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.pickup-card-year {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--pink);
+  letter-spacing: 0.05em;
+}
+
+.pickup-card-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin: 0.25rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.pickup-card-buzz {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.pickup-card-buzz-track {
+  flex: 1;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.pickup-card-buzz-fill {
+  height: 100%;
+  border-radius: 2px;
+}
+
+.pickup-card-buzz-val {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
 /* Header */
 .site-header {
   text-align: center;
@@ -648,6 +857,26 @@ a:hover {
 
 /* Responsive */
 @media (max-width: 480px) {
+  .hero {
+    padding: 3rem 1rem 2rem;
+  }
+
+  .hero-title {
+    font-size: 2.2rem;
+  }
+
+  .hero-sub {
+    font-size: 0.85rem;
+  }
+
+  .nav-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .pickup-card {
+    flex: 0 0 180px;
+  }
+
   .site-header {
     padding: 2rem 1rem 1.5rem;
   }

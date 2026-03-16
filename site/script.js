@@ -3,11 +3,12 @@
 
   const YEARS = [2025, 2024, 2023, 2022, 2021, 2020];
 
-  // --- Index page: render year grid with meme counts ---
+  // --- Index page: render year grid with meme counts + pickup ---
   const yearGrid = document.getElementById("year-grid");
   if (yearGrid) {
     let totalMemes = 0;
     let loaded = 0;
+    const allMemes = [];
 
     YEARS.forEach((year) => {
       const a = document.createElement("a");
@@ -25,6 +26,7 @@
         .then((memes) => {
           const count = memes.length;
           totalMemes += count;
+          memes.forEach((m) => allMemes.push({ ...m, year }));
           const el = document.getElementById(`count-${year}`);
           if (el) el.textContent = `${count} memes`;
         })
@@ -39,8 +41,33 @@
             if (stats) {
               stats.innerHTML = `<span>${YEARS.length} years</span><span class="stats-dot"></span><span>${totalMemes} memes</span>`;
             }
+            renderPickup(allMemes);
           }
         });
+    });
+  }
+
+  function renderPickup(allMemes) {
+    const container = document.getElementById("pickup-scroll");
+    if (!container) return;
+
+    const top = [...allMemes].sort((a, b) => (b.buzz || 0) - (a.buzz || 0)).slice(0, 12);
+
+    top.forEach((meme) => {
+      const buzz = meme.buzz || 5;
+      const hue = buzzToHue(buzz);
+      const a = document.createElement("a");
+      a.href = `year.html?y=${meme.year}`;
+      a.className = "pickup-card";
+      a.innerHTML = `
+        <span class="pickup-card-year">${meme.year}</span>
+        <span class="pickup-card-name">${escapeHtml(meme.name)}</span>
+        <div class="pickup-card-buzz">
+          <div class="pickup-card-buzz-track"><div class="pickup-card-buzz-fill" style="width:${buzz * 10}%;background:hsl(${hue},75%,55%)"></div></div>
+          <span class="pickup-card-buzz-val">${buzz}</span>
+        </div>
+      `;
+      container.appendChild(a);
     });
   }
 
