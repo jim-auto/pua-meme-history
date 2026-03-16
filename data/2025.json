@@ -107,5 +107,57 @@
     "image": "",
     "reach": 2,
     "peak_month": 2
+  },
+  {
+    "name": "マッチングアプリぼったくり詐欺（トクリュウ）",
+    "type": "event",
+    "description": "マッチングアプリで知り合った男性をバーに誘い、ぼったくりを行う「トクリュウ」（匿名・流動型犯罪グループ）が摘発。2024年9月〜2025年5月で被害者54人・被害額約8000万円。障害者向けアプリも悪用。警視庁は2025年1〜5月で約140件・1億4500万円の被害を確認。",
+    "origin": "TOKYO MX / FNNプライムオンライン / 時事通信。マッチングアプリが組織犯罪のインフラとして悪用される新たな問題。",
+    "image": "",
+    "reach": 5,
+    "peak_month": 5,
+    "sources": [
+      {"type": "news", "url": "https://s.mxtv.jp/tokyomxplus/mx/article/202505221030/detail/", "title": "マッチングアプリでの「ぼったくり」被害の実態は… - TOKYO MX"},
+      {"type": "news", "url": "https://news.yahoo.co.jp/articles/5cd3479d098a44120e1b0148fbe8cdf22aeb8081", "title": "障害者向けマッチングアプリ悪用…ぼったくり疑いで逮捕 被害額8000万円 - FNN/Yahoo!ニュース"},
+      {"type": "news", "url": "https://www.tokyo-np.co.jp/article/412817", "title": "マッチングアプリ使った「ぼったくり」、狙われた男性の共通点は？ - 東京新聞"}
+    ]
+  },
+  {
+    "name": "独身偽装で賠償命令（貞操権侵害）",
+    "type": "event",
+    "description": "マッチングアプリで既婚者が独身と偽って交際し、貞操権侵害で約150万円の賠償を命じる判決（東京地裁、2025年12月）。適応障害の治療費・探偵調査費も認められた。大阪地裁でも同様の判決（55万円）。",
+    "origin": "弁護士ドットコム / NHK / 日経。「独身偽装」がマッチングアプリの新たな法的論点として注目され、貞操権という概念が広く知られるきっかけに。",
+    "image": "",
+    "reach": 4,
+    "peak_month": 12,
+    "sources": [
+      {"type": "news", "url": "https://www.bengo4.com/c_3/n_19723/", "title": "「独身偽装」の男性に150万円賠償命令、「貞操権侵害」を認める - 弁護士ドットコム"},
+      {"type": "news", "url": "https://www.nikkei.com/article/DGXZQOUD089B40Y5A201C2000000/", "title": "独身偽り交際、東京地裁が賠償命令 貞操権侵害を認定 - 日経"}
+    ]
+  },
+  {
+    "name": "ロマンス詐欺急増 → マイナンバーカード本人確認要請",
+    "type": "event",
+    "description": "2024年のSNS型ロマンス詐欺が3,824件・被害額400.9億円（前年比+142.8%）と急増。デジタル庁がマッチングアプリ事業者にマイナンバーカード活用を要請。2025年6月にアプリ協会と協定締結。タップルは独身証明機能を搭載。",
+    "origin": "デジタル庁ニュース / ITmedia / 警察庁統計。ロマンス詐欺対策がマッチングアプリの本人確認厳格化を加速させた。",
+    "image": "",
+    "reach": 5,
+    "peak_month": 6,
+    "sources": [
+      {"type": "news", "url": "https://digital-agency-news.digital.go.jp/articles/2025-10-17", "title": "マイナンバーカードで本人確認を強化 マッチングアプリをより安全・安心なものに - デジタル庁"},
+      {"type": "news", "url": "https://www.itmedia.co.jp/news/articles/2409/13/news172.html", "title": "マッチングアプリ、本人確認にマイナカード活用を デジ庁が事業者に働きかけ - ITmedia"}
+    ]
+  },
+  {
+    "name": "ゲンキジャパン英国移住",
+    "type": "event",
+    "description": "ナンパYouTuber「ゲンキジャパン」のゲンキ（登録者45万人）が2025年4月に英国への2年間移住を発表。動画内で「コンプラ的に色々厳しくて…」と漏らし、日本でのナンパコンテンツ制作の限界を示唆。",
+    "origin": "NEWSポストセブン（2025/04/19）。ゲンキは「ナンパの悪いイメージを変えたい」と語る一方、日本のコンプライアンス環境が厳しくなったことを理由に挙げた。",
+    "image": "",
+    "reach": 3,
+    "peak_month": 4,
+    "sources": [
+      {"type": "news", "url": "https://www.news-postseven.com/archives/20250419_2036185.html", "title": "ナンパYouTuberゲンキが語るコンプラ時代の「ナンパの流儀」英国移住を発表 - NEWSポストセブン"}
+    ]
   }
 ]
