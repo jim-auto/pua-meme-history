@@ -1,4 +1,4 @@
-# PUA Meme History
+# PUA界隈ヒストリー
 
 https://jim-auto.github.io/pua-meme-history/site/
 

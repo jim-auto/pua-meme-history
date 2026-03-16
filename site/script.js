@@ -51,7 +51,7 @@
       return;
     }
 
-    document.title = `${year} - PUA Meme History`;
+    document.title = `${year} - PUA界隈ヒストリー`;
     yearTitle.textContent = `${year}`;
 
     // Build prev/next navigation
