@@ -6,7 +6,12 @@
     "origin": "TikTok / Twitter。元は心理学用語だが、Z世代の恋愛あるあるとして爆発的にバズ。高校生流行語1位を獲得。",
     "image": "",
     "reach": 5,
-    "peak_month": 6
+    "peak_month": 6,
+    "sources": [
+      {"type": "news", "url": "https://news.mynavi.jp/article/20230606-2697171/", "title": "「蛙化現象」ってどんな意味? Z世代の流行語1位 - マイナビニュース"},
+      {"type": "news", "url": "https://www.wwdjapan.com/articles/1572472", "title": "「流行った言葉」1位は"蛙化現象" Z世代が選ぶ2023年上半期トレンドランキング - WWDJAPAN"},
+      {"type": "news", "url": "https://www.tokyo-np.co.jp/article/264372", "title": "「蛙化現象」って何のこと？どう使う？意味が変わって流行語にも Z世代や専門家に取材 - 東京新聞"}
+    ]
   },
   {
     "name": "フードコートで蛙化",
@@ -15,7 +20,12 @@
     "origin": "テレビ番組の街頭インタビューがXで拡散。「フードコートの何が悪い」派と「最低限の店選べ」派が激突。",
     "image": "",
     "reach": 4,
-    "peak_month": 7
+    "peak_month": 7,
+    "sources": [
+      {"type": "news", "url": "https://www.rbbtoday.com/article/2023/04/02/207785.html", "title": "フードコートでウロウロする姿に冷める？SNSで話題の蛙化現象におじさん世代ツッコミ - RBB TODAY"},
+      {"type": "news", "url": "https://dime.jp/genre/1640391/", "title": "フードコートでウロウロするのもNG!? データで読み解く「蛙化現象」の実態 - @DIME"},
+      {"type": "video", "url": "https://www.appbank.net/2023/03/30/youtubernews/2435295.php", "title": "ヒカルが蛙化現象きりまるとコラボ! 炎上の真相を語る - AppBank"}
+    ]
   },
   {
     "name": "ChatGPTでメッセージ代筆",
@@ -42,7 +52,12 @@
     "origin": "文春オンライン / Twitter。マニュアルには男性心理を操る手法が体系化されており、PUA理論との類似性が指摘された。",
     "image": "",
     "reach": 5,
-    "peak_month": 11
+    "peak_month": 11,
+    "sources": [
+      {"type": "news", "url": "https://ja.wikipedia.org/wiki/%E9%A0%82%E3%81%8D%E5%A5%B3%E5%AD%90%E3%82%8A%E3%82%8A%E3%81%A1%E3%82%83%E3%82%93%E4%BA%8B%E4%BB%B6", "title": "頂き女子りりちゃん事件 - Wikipedia"},
+      {"type": "news", "url": "https://sp.m.jiji.com/article/show/3088820", "title": "「頂き女子」詐欺ほう助認める 恋愛マニュアル販売 2000万円売り上げ - 時事通信"},
+      {"type": "news", "url": "https://diamond.jp/articles/-/342526", "title": "「頂き女子りりちゃん」懲役10年前後か…出所後も「3億円」近い納税義務が残る可能性 - ダイヤモンド・オンライン"}
+    ]
   },
   {
     "name": "杉崎PUA TikTokブレイク",
@@ -51,7 +66,12 @@
     "origin": "TikTok / Twitter。「顔は小峠似なのにトーク力が異常」という評価がバズ。8年以上のナンパ経験に裏打ちされた会話力。",
     "image": "",
     "reach": 4,
-    "peak_month": 8
+    "peak_month": 8,
+    "sources": [
+      {"type": "video", "url": "https://www.tiktok.com/@osugi_pua", "title": "杉崎PUA TikTok公式アカウント (@osugi_pua)"},
+      {"type": "news", "url": "https://food-delivery-driver.com/97/", "title": "杉崎PUAって何者？女性とのトークが神レベルだけど顔は小峠似？ - 週刊あべし日記"},
+      {"type": "news", "url": "https://ronron299.com/sugisaki-pua-kao-nenrei-pro/", "title": "杉崎PUAの顔は？年齢や身長などプロフィールについても！"}
+    ]
   },
   {
     "name": "ナンパコンサル商戦",
@@ -78,7 +98,12 @@
     "origin": "官報 / Twitter。ナンパ界隈で常態化していた「即画」（ベッドで寝ている女性の写真投稿）が明確に犯罪となり、戦果報告の投稿が激減。スタナン一家事件の伏線にも。",
     "image": "",
     "reach": 5,
-    "peak_month": 7
+    "peak_month": 7,
+    "sources": [
+      {"type": "legal", "url": "https://www.moj.go.jp/keiji1/keiji12_00200.html", "title": "法務省：性犯罪関係の法改正等 Q&A"},
+      {"type": "legal", "url": "https://ja.wikipedia.org/wiki/%E6%80%A7%E7%9A%84%E3%81%AA%E5%A7%BF%E6%85%8B%E3%82%92%E6%92%AE%E5%BD%B1%E3%81%99%E3%82%8B%E8%A1%8C%E7%82%BA%E7%AD%89%E3%81%AE%E5%87%A6%E7%BD%B0%E5%8F%8A%E3%81%B3%E6%8A%BC%E5%8F%8E%E7%89%A9%E3%81%AB%E8%A8%98%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E6%80%A7%E7%9A%84%E3%81%AA%E5%A7%BF%E6%85%8B%E3%81%AE%E5%BD%B1%E5%83%8F%E3%81%AB%E4%BF%82%E3%82%8B%E9%9B%BB%E7%A3%81%E7%9A%84%E8%A8%98%E9%8C%B2%E3%81%AE%E6%B6%88%E5%8E%BB%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B", "title": "性的姿態撮影等処罰法 - Wikipedia"},
+      {"type": "news", "url": "https://keiji-pro.com/columns/475/", "title": "撮影罪はいつから施行された？施行日以前の盗撮行為に適用される罪の種類も解説 - ベンナビ刑事事件"}
+    ]
   },
   {
     "name": "不同意性交罪の施行",
@@ -87,6 +112,11 @@
     "origin": "官報 / Twitter。酔わせてホテルに連れ込む手法が明確に犯罪化され、「即」のリスクが一変。零時レイが「不同意性交罪で捕まらない心構え11選」を公開し話題に。逮捕率57%。",
     "image": "",
     "reach": 5,
-    "peak_month": 7
+    "peak_month": 7,
+    "sources": [
+      {"type": "legal", "url": "https://www.moj.go.jp/keiji1/keiji12_00200.html", "title": "法務省：性犯罪関係の法改正等 Q&A"},
+      {"type": "legal", "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%90%8C%E6%84%8F%E6%80%A7%E4%BA%A4%E7%AD%89%E7%BD%AA", "title": "不同意性交等罪 - Wikipedia"},
+      {"type": "news", "url": "https://www.gender.go.jp/public/kyodosankaku/2023/202309/202309_03.html", "title": "「共同参画」2023年9月号 性犯罪関係の刑法改正 - 内閣府男女共同参画局"}
+    ]
   }
 ]

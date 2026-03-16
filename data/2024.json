@@ -6,7 +6,12 @@
     "origin": "Twitter / X。「奢るのは投資」vs「割り勘がフェア」が永久に決着しない定期イベント化。",
     "image": "",
     "reach": 4,
-    "peak_month": 3
+    "peak_month": 3,
+    "sources": [
+      {"type": "news", "url": "https://gendai.media/articles/-/142650", "title": "デートで奢らない男性は損をする？ジェンダー論では語りきれない「奢り奢られ問題」の本質 - 現代ビジネス"},
+      {"type": "news", "url": "https://nikkan-spa.jp/1891555", "title": "SNSで賛否両論「デート代奢り奢られ論争」で発言者が炎上するワケ - 日刊SPA!"},
+      {"type": "data", "url": "https://prtimes.jp/main/html/rd/p/000000006.000134744.html", "title": "デート代割り勘論争、20-30代のリアルな声を調査！ - ONE FOR ONE調査"}
+    ]
   },
   {
     "name": "ペアーズ構文",
@@ -69,7 +74,12 @@
     "origin": "YouTube / Twitter / J-CASTニュース。ナンパ系コンテンツへの社会的批判が強まるきっかけに。",
     "image": "",
     "reach": 5,
-    "peak_month": 10
+    "peak_month": 10,
+    "sources": [
+      {"type": "news", "url": "https://www.j-cast.com/2024/10/05494982.html?p=all", "title": "大阪駅で「抱かせて欲しい」ナンパ師YouTuberの迷惑行為動画が拡散、JR西日本は「毅然とした対応」 - J-CASTニュース"},
+      {"type": "news", "url": "https://www.j-cast.com/2024/10/06494978.html?p=all", "title": "道行く女性に「抱かせて欲しい」とつきまとい…弁護士が指摘する迷惑YouTuberの違法性 - J-CASTニュース"},
+      {"type": "news", "url": "https://news.livedoor.com/topics/detail/27314088/", "title": "大阪駅で「今夜だけ抱かせて」1児の父であるYouTuberのナンパ動画が波紋 - ライブドアニュース"}
+    ]
   },
   {
     "name": "スタナン一家・韓国遠征炎上",
@@ -78,7 +88,12 @@
     "origin": "X / NEWSポストセブン / AFP。韓国メディアも報道し日韓で大炎上。代表・副代表は10月3日に謝罪動画を投稿し「無期限活動自粛」を宣言。撮影罪にも抵触。",
     "image": "",
     "reach": 5,
-    "peak_month": 10
+    "peak_month": 10,
+    "sources": [
+      {"type": "news", "url": "https://www.news-postseven.com/archives/20241016_1997792.html?DETAIL=", "title": "ナンパ師グループが韓国遠征 弁護士がメンバーに伝授していた「不同意性交を回避するテクニック」 - NEWSポストセブン"},
+      {"type": "news", "url": "https://www.news-postseven.com/archives/20241016_1997793.html?DETAIL=", "title": "韓国人女性の性的画像投稿疑惑で大炎上 ナンパ師グループが非モテ男性を狙って展開した情報商材ビジネスの全貌 - NEWSポストセブン"},
+      {"type": "news", "url": "https://gendai.media/articles/-/139665?page=3", "title": "性的音声を無断で公開、マニュアルを販売し、海外遠征まで…被害女性たちが告発、悪質ナンパ師「スタナン一家」のひどすぎる手口 - 現代ビジネス"}
+    ]
   },
   {
     "name": "孕柱メロ（渡部秀一）逮捕",
@@ -87,7 +102,12 @@
     "origin": "FRIDAY / Togetter / X。「2023年に550即」「累計1000人超」を自称。スマホ28台所持。情報商材ビジネスと犯罪の境界線が問われた。",
     "image": "",
     "reach": 5,
-    "peak_month": 11
+    "peak_month": 11,
+    "sources": [
+      {"type": "news", "url": "https://togetter.com/li/2459954", "title": "「孕柱メロ」を名乗り、情報商材「あいメソッド」を販売していたナンパ師、不同意性交罪で逮捕 - Togetter"},
+      {"type": "x_post", "url": "https://x.com/tkzwgrs/status/1853364926808473617", "title": "滝沢ガレソによる孕柱メロ逮捕の詳報ポスト - X"},
+      {"type": "news", "url": "https://mori-shio.net/watabe-syuiti-homuramero-neoneetai/", "title": "渡部秀一(孕柱メロ)ネオニートあいは有名ナンパ師「性的暴行で逮捕！の犯行手口がすごい」"}
+    ]
   },
   {
     "name": "黒足の一味",

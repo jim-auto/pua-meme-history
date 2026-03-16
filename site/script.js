@@ -154,6 +154,20 @@
       html += `<div class="meme-origin">${escapeHtml(meme.origin)}</div>`;
     }
 
+    if (meme.sources && meme.sources.length) {
+      html += `<div class="meme-sources">`;
+      html += `<span class="meme-sources-label">Sources</span>`;
+      meme.sources.forEach((s) => {
+        const icon = { news: "\u{1F4F0}", x_post: "\u{1D54F}", data: "\u{1F4CA}", video: "\u{1F3AC}", legal: "\u{2696}" }[s.type] || "\u{1F517}";
+        if (s.url) {
+          html += `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener" class="meme-source-link">${icon} ${escapeHtml(s.title || s.url)}</a>`;
+        } else {
+          html += `<span class="meme-source-text">${icon} ${escapeHtml(s.title)}</span>`;
+        }
+      });
+      html += `</div>`;
+    }
+
     if (meme.image) {
       html += `<img class="meme-image" src="${escapeHtml(meme.image)}" alt="${escapeHtml(meme.name)}" loading="lazy">`;
     }

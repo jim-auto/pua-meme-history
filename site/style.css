@@ -580,6 +580,44 @@ a:hover {
   opacity: 0.8;
 }
 
+/* Sources */
+.meme-sources {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  margin-bottom: 0.75rem;
+  padding: 0.6rem 0.75rem;
+  background: rgba(88, 166, 255, 0.04);
+  border-radius: 6px;
+  border: 1px solid rgba(88, 166, 255, 0.1);
+}
+
+.meme-sources-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 0.1rem;
+}
+
+.meme-source-link,
+.meme-source-text {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  word-break: break-all;
+}
+
+.meme-source-link {
+  color: var(--accent);
+  transition: color 0.15s;
+}
+
+.meme-source-link:hover {
+  color: var(--accent-hover);
+}
+
 .meme-image {
   width: 100%;
   max-width: 400px;

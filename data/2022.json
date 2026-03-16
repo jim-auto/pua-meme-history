@@ -6,7 +6,12 @@
     "origin": "Twitter / TikTok。後に「頂き女子りりちゃん」が詐欺幇助で逮捕され社会問題化。橘玲も「頂き女子とナンパ師の共通点」をコラムで指摘。",
     "image": "",
     "reach": 4,
-    "peak_month": 7
+    "peak_month": 7,
+    "sources": [
+      {"type": "news", "url": "https://friday.kodansha.co.jp/article/197508", "title": "「パパ活女子」の最終進化形「イタダキ女子」の狡猾すぎる手口 - FRIDAYデジタル"},
+      {"type": "news", "url": "https://bunshun.jp/articles/-/47012", "title": "「パパ活で100万頂けたよ！」SNSでパパからもらった金額を競い合う"頂き女子"のヤバすぎる手口 - 文春オンライン"},
+      {"type": "news", "url": "https://www.ktv.jp/news/feature/1102-itadaki/", "title": "パパ活をさらに悪質にしたもの、それが"頂き女子" - 関西テレビ"}
+    ]
   },
   {
     "name": "港区女子 / 港区おじさん",
@@ -15,7 +20,12 @@
     "origin": "Instagram / Twitter。「港区女子に相手にされない一般男性」の自虐ネタも派生。",
     "image": "",
     "reach": 4,
-    "peak_month": 5
+    "peak_month": 5,
+    "sources": [
+      {"type": "news", "url": "https://nikkan-spa.jp/1315645", "title": "パパ活を始める"港区女子"たちは注意「"港区おじさん"の多くは非モテ、最悪ストーカー化も…」 - 日刊SPA!"},
+      {"type": "news", "url": "https://tokyo-calendar.jp/article/8812", "title": "港区おじさんが編み出した「港区女子適性診断」 - 東京カレンダー"},
+      {"type": "news", "url": "https://happymail.co.jp/happylife/characteristic/minato-ward-women/", "title": "港区女子の実態とは？職業や特徴あるある9選＆悲しい末路を紹介 - ハッピーライフ"}
+    ]
   },
   {
     "name": "Photojoy量産型プロフィール",

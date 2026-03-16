@@ -78,7 +78,12 @@
     "origin": "各種メディア / Twitter。橘玲が「PUAカルチャーのなれの果て」とコラム執筆。ナンパ→挫折→女性憎悪のパスが社会問題として可視化された。懲役19年。",
     "image": "",
     "reach": 5,
-    "peak_month": 8
+    "peak_month": 8,
+    "sources": [
+      {"type": "news", "url": "https://www.nikkei.com/article/DGXZQOUE126LO0S3A710C2000000/", "title": "小田急線刺傷、被告に懲役19年 東京地裁「無差別危険」 - 日本経済新聞"},
+      {"type": "news", "url": "https://bunshun.jp/articles/-/63945", "title": "「成功率数％でも中高生をホテルへ…」自称ナンパ師・対馬容疑者の異変 - 文春オンライン"},
+      {"type": "news", "url": "https://www.tokyo-np.co.jp/article/259809", "title": "「僕だけ貧乏くじ」がカップルや社会への憎しみに 被告が語った事件前の心境 - 東京新聞"}
+    ]
   },
   {
     "name": "リアルナンパアカデミー塾長・懲役13年確定の余波",

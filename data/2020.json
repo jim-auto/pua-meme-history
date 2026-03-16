@@ -15,7 +15,12 @@
     "origin": "コロナ第1波（2020年4〜5月）。Zoom合コンは2対2でも気軽にできる反面、会話が当たり障りのないニュースネタで終わりがちと話題に。",
     "image": "",
     "reach": 4,
-    "peak_month": 5
+    "peak_month": 5,
+    "sources": [
+      {"type": "news", "url": "https://toyokeizai.net/articles/-/343783", "title": "急増中の「オンライン飲み会」は何が楽しいのか - 東洋経済オンライン"},
+      {"type": "news", "url": "https://www.value-press.com/pressrelease/240064", "title": "zoom合コンサービス「Zoom婚」をリリースしました - プレスリリース"},
+      {"type": "news", "url": "https://internet.watch.impress.co.jp/docs/review/1248295.html", "title": "今、話題の「オンライン飲み会」入門！ コロナの憂鬱を吹っ飛ばせ - INTERNET Watch"}
+    ]
   },
   {
     "name": "マスク美人 / マスク詐欺",
@@ -24,7 +29,12 @@
     "origin": "Twitter / TOKYO MX。「マスク外したら別人」がマッチングアプリのあるあるに定着。",
     "image": "",
     "reach": 4,
-    "peak_month": 6
+    "peak_month": 6,
+    "sources": [
+      {"type": "news", "url": "https://prtimes.jp/main/html/rd/p/000000064.000025460.html", "title": "マスク顔写真でマッチングアプリを登録している人は3割も！コロナ禍の全世代恋愛事情を調査"},
+      {"type": "news", "url": "https://allabout.co.jp/gm/gc/500626/", "title": "マスクをつけると「美人」に見えやすいのはなぜですか？ - All About 脳科学"},
+      {"type": "data", "title": "男性67.8%がマスクを外した時のギャップを感じたとする調査結果（Parasol社調査）"}
+    ]
   },
   {
     "name": "散歩デート論争",
@@ -51,7 +61,12 @@
     "origin": "各社プレスリリース / Twitter。ナンパ師すらアプリに流入する事態に。",
     "image": "",
     "reach": 5,
-    "peak_month": 4
+    "peak_month": 4,
+    "sources": [
+      {"type": "news", "url": "https://www.itmedia.co.jp/news/articles/2012/25/news125.html", "title": "コロナ禍でDL数2倍！ 躍進の婚活アプリ「Pairs」、運営元に聞くユーザー増のワケ - ITmedia NEWS"},
+      {"type": "news", "url": "https://www.icr.co.jp/newsletter/wtr378-20201015-karube.html", "title": "コロナによるマッチングアプリへの影響 - InfoComニューズレター"},
+      {"type": "news", "url": "https://prtimes.jp/main/html/rd/p/000000180.000005528.html", "title": "Pairs「コロナ禍の恋愛意識調査」を実施。コロナ影響で恋人・パートナーが欲しいと思う人が増加"}
+    ]
   },
   {
     "name": "恋愛工学の教科書バズ",
@@ -87,6 +102,11 @@
     "origin": "FRIDAY / 日経 / 東スポ。塾生には東京メトロ社員もおり社会に衝撃。「スーパーフリー事件の再来」とも報道。ナンパ塾・コンサルビジネスの闇が明るみに。",
     "image": "",
     "reach": 5,
-    "peak_month": 3
+    "peak_month": 3,
+    "sources": [
+      {"type": "news", "url": "https://www.nikkei.com/article/DGKKZO56744580T10C20A3CE0000/", "title": "ナンパ講座塾長、懲役13年 - 日本経済新聞"},
+      {"type": "news", "url": "https://friday.kodansha.co.jp/article/69895", "title": "準強制性交等で4度逮捕 ナンパアカデミー塾長・渡部被告の実像 - FRIDAYデジタル"},
+      {"type": "news", "url": "https://news.yahoo.co.jp/expert/articles/6f38ca12795491cf3ed6e4fad20ea5c22bd7d5d4", "title": "最後まで「冤罪」を主張したリアルナンパアカデミー塾長と「性的同意」- Yahoo!ニュース"}
+    ]
   }
 ]

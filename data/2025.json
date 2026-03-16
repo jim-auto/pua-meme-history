@@ -15,7 +15,12 @@
     "origin": "Twitter / X の弱者男性論争から派生。PUA界隈では「弱男から脱出する方法」系のコンテンツが量産された。",
     "image": "",
     "reach": 4,
-    "peak_month": 2
+    "peak_month": 2,
+    "sources": [
+      {"type": "news", "url": "https://ja.wikipedia.org/wiki/%E5%BC%B1%E8%80%85%E7%94%B7%E6%80%A7", "title": "弱者男性 - Wikipedia"},
+      {"type": "news", "url": "https://webgenron.com/articles/article20250214_01", "title": "弱者男性論は誰のため？氷河期世代から頂き女子りりちゃんまで - webゲンロン"},
+      {"type": "data", "url": "https://www.fujisan.co.jp/trends/?p=46590", "title": "【男性が抱える生きづらさ】500人アンケートで見えてきた令和の「弱者男性」の姿 - Fujisan Trends"}
+    ]
   },
   {
     "name": "AI写真詐欺",
@@ -69,7 +74,12 @@
     "origin": "X / ツイ速。LINE交換を求められた際に断る口実「LINEやってないんです」を真に受けた男性のエピソードがバズ。",
     "image": "",
     "reach": 4,
-    "peak_month": 1
+    "peak_month": 1,
+    "sources": [
+      {"type": "news", "url": "https://news.yahoo.co.jp/articles/d4e0fa437dca0a44e53164d0d002eea63c6296d9", "title": "永野芽郁 不倫メッセージ報道で「LINEやめました」発言とのズレ指摘 - SmartFLASH/Yahoo!ニュース"},
+      {"type": "news", "url": "https://toyokeizai.net/articles/-/876481?display=b", "title": "永野芽郁と田中圭の不倫疑惑とLINE流出が示す本質的なヤバさ - 東洋経済オンライン"},
+      {"type": "news", "url": "https://jisin.jp/entertainment/entertainment-news/2467040/", "title": "「いつからはじめたの？」LINE流出の永野芽郁 ファンに募る新たな疑問 - 女性自身"}
+    ]
   },
   {
     "name": "ナンパ界隈の規制強化と地下化",
